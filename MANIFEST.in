@@ -1,0 +1,13 @@
+include README.md
+include LICENSE
+include requirements.txt
+include requirements-dev.txt
+include INSTALL.md
+include QUICK_START.md
+include install.sh
+include install.ps1
+include pdf-converter.sh
+include pdf-converter.bat
+recursive-include pdf_image_converter *.py *.svg *.ico
+recursive-include examples *.py
+recursive-include tests *.py
