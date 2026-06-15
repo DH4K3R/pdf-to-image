@@ -28,7 +28,7 @@ Las demás dependencias se instalan automáticamente.
 
 ```powershell
 # 1. Clona el repositorio
-git clone https://github.com/yourusername/pdf-image-converter.git
+git clone https://github.com/DH4K3R/pdf-to-image.git
 cd pdf-image-converter
 
 # 2. Ejecuta el script de instalación automática
@@ -43,7 +43,7 @@ pdf-converter --help
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/yourusername/pdf-image-converter.git
+git clone https://github.com/DH4K3R/pdf-to-image.git
 cd pdf-image-converter
 
 # 2. Ejecuta el script de instalación automática
