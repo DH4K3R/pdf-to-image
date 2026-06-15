@@ -12,10 +12,6 @@ install_requires = [
     "PyPDF2>=3.0.0",
 ]
 
-# Agregar poppler-windows solo en Windows
-if sys.platform.startswith('win'):
-    install_requires.append("poppler-windows>=1.0.2")
-
 setup(
     name="pdf-image-converter",
     version="1.0.0",
